@@ -5,7 +5,7 @@ This repo is for our NeurIPS 2023 paper `D3FG` for molecule generation.
 [[arXiv]](https://arxiv.org/abs/2306.13769) &nbsp;
 
 
-**Code**: Code is avaiable in[[CBGBench]](https://github.com/EDAPINENUT/CBGBench/tree/master). 
+**Code**: Code is avaiable in [[CBGBench]](https://github.com/EDAPINENUT/CBGBench/tree/master). 
 
 **Authors**: Haitao Lin, Yufei Huang, Odin Zhang, Lirong Wu, Siyuan Li, Zhiyuan Chen, Stan Z. Li.
 
