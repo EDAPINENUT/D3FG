@@ -5,7 +5,7 @@ This repo is for our NeurIPS 2023 paper `D3FG` for molecule generation.
 [[arXiv]](https://arxiv.org/abs/2306.13769) &nbsp;
 
 
-**Code**: Code is avaiable in [[OpenPCDet]](https://github.com/open-mmlab/OpenPCDet). 
+**Code**: Code is avaiable in[[CBGBench]](https://github.com/EDAPINENUT/CBGBench/tree/master). 
 
 **Authors**: Haitao Lin, Yufei Huang, Odin Zhang, Lirong Wu, Siyuan Li, Zhiyuan Chen, Stan Z. Li.
 
@@ -21,7 +21,7 @@ D3FG codes have been released to [[CBGBench]](https://github.com/EDAPINENUT/CBGB
 
 
 ## Citation
-If you find this work useful in your research, please consider cite:
+If you find this work useful in your research, please consider citing:
 ```
 @misc{lin2024functionalgroupbased,
       title={Functional-Group-Based Diffusion for Pocket-Specific Molecule Generation and Elaboration}, 
